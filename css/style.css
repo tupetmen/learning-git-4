@@ -1,6 +1,1 @@
-.test {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-/*# sourceMappingURL=style.css.map */
+.test { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
