@@ -18,5 +18,11 @@ h2 {
 container p {
     margin: 20px 0;
     font-weight:bolder;
-    font-size: 30px;
+    font-size: 31px;
+}
+
+container p1 {
+    margin: 20px 0;
+    font-weight:bolder;
+    font-size: 32px;
 }
